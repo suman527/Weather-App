@@ -7,14 +7,14 @@ https://weather.chatme.website/
 ```
 
 
-## Features
+## Features :
 - Search for a location and view the current weather conditions
 - Display temperature, humidity, Date, Time, and weather description
 - Show weather icon based on the current weather condition
 - Responsive design for mobile and desktop devices
 
 
-## Technologies Used
+## Technologies Used :
 - HTML
 - CSS
 - JavaScript
@@ -22,7 +22,7 @@ https://weather.chatme.website/
 ## Getting Started
 Open the `index.html` file in your web browser.
 
-## Usage
+## Usage : 
 - Enter a location in the search input and press Enter or click the search button.
 - The app will fetch the weather data from an API and display it on the screen.
 - The temperature, humidity, Date, Time, and weather description will be shown along with a corresponding weather icon.
